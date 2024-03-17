@@ -1,0 +1,15 @@
+Enter the start and goal state in row wise with spaces in middle
+**Example**
+Goal State=
+Enter the 1 row of the goal matrix=  1 2 3
+Enter the 2 row of the goal matrix=  8 0 4
+Enter the 3 row of the goal matrix=  7 6 5
+Start State=
+Enter the 1 row of the start matrix=  2 8 3
+Enter the 2 row of the start matrix=  1 6 4
+Enter the 3 row of the start matrix=  7 0 5
+
+
+Run it usually like a python file
+Example
+python Exp.py
