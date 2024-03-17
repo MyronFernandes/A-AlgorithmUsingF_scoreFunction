@@ -27,3 +27,7 @@ Thus, h-score = 5 and g-score = 0 as the number of nodes traversed from the star
 We first move the empty space in all the possible directions in the start state and calculate the f-score for each state. This is called expanding the current state.
 After expanding the current state, it is pushed into the closed list and the newly generated states are pushed into the open list. A state with the least f-score is selected and expanded again. This process continues until the goal state occurs as the current state. Basically, here we are providing the algorithm a measure to choose its actions. The algorithm chooses the best possible action and proceeds in that path.
 This solves the issue of generating redundant child states, as the algorithm will expand the node with the least f-score.
+
+
+**Reference**
+https://www.geeksforgeeks.org/8-puzzle-problem-using-branch-and-bound/
