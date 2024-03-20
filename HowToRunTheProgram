@@ -13,3 +13,6 @@ Enter the 3 row of the start matrix=  7 0 5
 Run it usually like a python file
 Example
 python Exp.py
+
+
+The code is similarly the way we solve the problem in the notebook. If you know to solve the sum in the notebook you know the working of the code.
