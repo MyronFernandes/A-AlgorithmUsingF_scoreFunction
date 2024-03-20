@@ -1,6 +1,7 @@
 import heapq
 import copy
 closed_set=[]
+#Input for goal node and start node
 print("Start State=")
 start_state =  [[int(x) for x in input(f"Enter the {i+1} row of the start matrix=  ").split(" ",3)] for i in range(3)]
 print("Goal State=")
